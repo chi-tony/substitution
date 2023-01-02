@@ -1,4 +1,5 @@
 // By inputting a key and plaintext, a ciphertext is created
+// Uses helper functions from CS50 library
 
 #include <cs50.h>
 #include <stdio.h>
